@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: ARAC design creates unique designs
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      We are a young and energetic practice, specialising in residential design
+      with projects ranging from private lifestyle houses to mid-density
+      subdivisions. We work alongside our clients, always seeking the best
+      possible design solution that exceeds their expectations and ambitions to
+      their dream homes. We believe good architecture and design can make a
+      house into a home.
     styles:
       self:
         height: auto
